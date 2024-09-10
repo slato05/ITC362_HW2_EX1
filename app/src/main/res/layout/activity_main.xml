@@ -47,5 +47,4 @@
         android:text="@string/next_button"
         app:icon="@drawable/ic_baseline_arrow_right_24"
         app:iconGravity="end" />
-    />
 </LinearLayout>
